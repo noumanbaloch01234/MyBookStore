@@ -1,0 +1,131 @@
+[
+  {
+    "id": 1,
+    "name": "Product One",
+    "title": "Awesome Book One",
+    "price": 1200,
+    "category": "Free",
+     "image": "/six.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Product Two",
+    "title": "Awesome Book Two",
+    "price": 1500,
+    "category": "Free",
+    "image": "/two.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Product Three",
+    "title": "Awesome Book Three",
+    "price": 1800,
+    "category": "Free",
+    "image": "/three.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Product Four",
+    "title": "Awesome Book Four",
+    "price": 2000,
+    "category": "Free",
+    "image": "/four.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Product Five",
+    "title": "Awesome Book Five",
+    "price": 2200,
+    "category": "Free",
+    "image": "/five.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Product Six",
+    "title": "Awesome Book Six",
+    "price": 2500,
+    "category": "Free",
+    "image": "/six.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Product Seven",
+    "title": "Awesome Book Seven",
+    "price": 2800,
+    "category": "Free",
+    "image": "/seven.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Product Eight",
+    "title": "Awesome Book Eight",
+    "price": 3000,
+    "category": "Free",
+    "image": "/eight.jpg"
+  },
+    {
+    "id": 9,
+    "name": "Product Eight",
+    "title": "Awesome Book Eight",
+    "price": 3000,
+    "category": "Books",
+     "image": "/six.jpg"
+  },
+    {
+    "id": 10,
+    "name": "Product Eight",
+    "title": "Awesome Book Eight",
+    "price": 3000,
+    "category": "Books",
+    "image": "/three.jpg"
+  },
+    {
+    "id": 11,
+    "name": "Product Eight",
+    "title": "Awesome Book Eight",
+    "price": 3000,
+    "category": "Books",
+    "image": "/four.jpg"
+  },
+    {
+    "id": 12,
+    "name": "Product Eight",
+    "title": "Awesome Book Eight",
+    "price": 3000,
+    "category": "Books",
+    "image": "/five.jpg"
+  },
+    {
+    "id": 13,
+    "name": "Product Eight",
+    "title": "Awesome Book Eight",
+    "price": 3000,
+    "category": "Books",
+     "image": "/six.jpg"
+  },
+    {
+    "id": 14,
+    "name": "Product Eight",
+    "title": "Awesome Book Eight",
+    "price": 3000,
+    "category": "Books",
+    "image": "/three.jpg"
+  },
+    {
+    "id": 15,
+    "name": "Product Eight",
+    "title": "Awesome Book Eight",
+    "price": 3000,
+    "category": "Books",
+    "image": "/four.jpg"
+  },
+    {
+    "id": 16,
+    "name": "Product Eight",
+    "title": "Awesome Book Eight",
+    "price": 3000,
+    "category": "Books",
+    "image": "/five.jpg"
+  }
+  
+]
